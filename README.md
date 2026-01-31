@@ -3,11 +3,11 @@
 
 Team Members
 ---------------
-1.Divya Jayaprakash 
-2.Jayasri Dhanapal 
-3.Reshma Karthikeyan Nair
-4.MODI Gurpreetkaur Jaykumar
-5.TARIGOPULA Abhilash
+* 1.Divya Jayaprakash 
+* 2.Jayasri Dhanapal 
+* 3.Reshma Karthikeyan Nair
+* 4.MODI Gurpreetkaur Jaykumar
+* 5.TARIGOPULA Abhilash
 
 ## Project Overview
 --------------------
